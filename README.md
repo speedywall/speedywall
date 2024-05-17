@@ -36,3 +36,7 @@
 ###
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=speedywall)](https://github.com/speedywall/github-readme-stats)
+
+
+###
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=speedywall&show_icons=true)
