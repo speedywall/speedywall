@@ -1,16 +1,42 @@
 ### Hi there im speedy ⚡ 👋
 
-<!--
-**speedywall/speedywall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-- 🔭 I’m currently working on home
-- 🌱 I’m currently learning crypto
-- 👯 I’m looking to collaborate on team
-- 🤔 I’m looking for help with database
-- 💬 Ask me about https://discord.gg/ZQ5wr9Qu
-- 📫 How to reach me: next time
-- 😄 Pronouns: I am a human, not a robot
-- ⚡ Fun fact: what kind of project am I ready to listen to?
--->
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm speedy from indonesian <br><br>- 🔭 I’m working as <br>- 📚 I'm currently learning crypto and programmers <br>- ⚡ In my free time I likes music</p>
+
+###
+
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
