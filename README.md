@@ -27,7 +27,7 @@
 <p align="left">I'm speedy from indonesian <br><br>- 🔭 I’m working as <br>- 📚 I'm currently learning crypto and programmers <br>- ⚡ In my free time I likes music</p>
 
 ###
-
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -38,5 +38,10 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
