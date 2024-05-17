@@ -31,8 +31,8 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>   ---B
+<h3 align="left">🔥   My Stats :</h3> 
 
 ###
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=speedywall)](https://github.com/speedywall/github-readme-stats)
