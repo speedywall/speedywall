@@ -34,8 +34,12 @@
 <h3 align="left">🔥   My Stats :</h3> 
 
 ###
-
-[![Anurag's GitHub stats-tokyonight](https://github-readme-stats.vercel.app/api?username=speedywall)](https://github.com/speedywall/github-readme-stats)
-
-
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=speedywall&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=speedywall&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 ###
+<a href="https://github.com/speedywall/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=speedywall&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/speedywall/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=speedywall&repo=convoychat" />
+</a>
